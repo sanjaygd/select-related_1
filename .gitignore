@@ -1,0 +1,5 @@
+venv/
+related_queries/related_queries/__pycache__/
+related_queries/comments/migrations/
+related_queries/comments/__pycache__/
+.vscode/
